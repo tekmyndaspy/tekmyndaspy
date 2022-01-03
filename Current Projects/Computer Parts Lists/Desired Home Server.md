@@ -11,6 +11,6 @@ Note: Checks indicate parts I already own.
 - [x] Storage: Seagate BarraCuda 4 TB 3.5"
 - [ ] Storage: Seagate BarraCuda 4 TB 3.5" https://www.amazon.com/dp/B071WLPRHN
 - [ ] Storage: Seagate BarraCuda 4 TB 3.5"
-- [ ] Video Card: MSI GeForce GT 710 https://www.amazon.com/dp/B01AZHOWL0
+- [ ] Video Card: Zotac GeForce GT 710 https://www.newegg.com/zotac-geforce-gt-710-zt-71304-20l/p/N82E16814500395
 - [x] Case: Phanteks Eclipse P600S
 - [x] Power Supply: SeaSonic FOCUS PX-650
