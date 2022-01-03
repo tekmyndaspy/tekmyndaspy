@@ -4,10 +4,7 @@
 - Screen Name: TekMyndAspy
 - Name: Sadie S.
 ### _How_ should you call me?
-- he/him
 - she/her
-- they/them
-- I literally just do not care.
 ### What do I like?
 - Open Source Software\
 I like it. I just really really like it as a concept. Being able to see what makes up a program before I run it is just so good. Takes a load off the mind.
