@@ -10,7 +10,7 @@
 
 ## Post-Processing
 --embed-thumbnail   # put thumbnail within the file as cover art
---embed-metadata    # put metadata within the file
+--add-metadata      # put metadata within the file
 
 ## File Creation
 --restrict-filenames    # only use ASCII, avoid whitespace
