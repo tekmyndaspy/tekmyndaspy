@@ -9,7 +9,7 @@
 --format bestvideo+bestaudio    # download the best video stream and best audio stream, then merge them
 
 ## Post-Processing
---embed-thumbnail   # put thumbnail within the file as cover art
+# --embed-thumbnail   # put thumbnail within the file as cover art
 --add-metadata      # put metadata within the file
 
 ## File Creation
